@@ -51,7 +51,7 @@ I have led the development, integration, and optimization of **25+ eShops** and 
 ### 🤝 **Let’s Connect!**  
 I’m passionate about creating seamless, high-performing eCommerce experiences and helping businesses reach their global potential.  
 
-- 🌐 **LinkedIn**: https://www.linkedin.com/in/tomaspaplauskas/(#)  
+- 🌐 **LinkedIn**: https://www.linkedin.com/in/tomaspaplauskas/
 - 📧 **Email**: tomas@paplauskas.com  
 
 Let’s collaborate and build something amazing together! 🚀  
